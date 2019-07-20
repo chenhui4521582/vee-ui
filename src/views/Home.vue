@@ -12,7 +12,7 @@
     </div>
   </div>
 </template>
-
+np
 <script>
 export default {
   name: 'home',
